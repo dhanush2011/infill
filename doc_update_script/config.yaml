@@ -1,5 +1,9 @@
 ## Add your printers below
-
+afforable f1:
+  title: "affordable f1"
+  description: " a cheap , good quality printer"
+  repository: "https://github.com/dhanush2011/record/edit/main/README.md"
+  file_name: record.md
 Infinite Benchy Theorem:
   title: "Infinite Benchy Theorem"
   description: "A belted, enclosed 3D printer designed for 24/7 3D printing"
